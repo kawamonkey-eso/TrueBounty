@@ -1,0 +1,2 @@
+SafeAddString(SI_INTERACT_OPTION_PAY_BOUNTY_FORFEIT_ITEMS_COST, "[Pay] Here's <<1>> gold and <<2[/1 stolen item/$d stolen items]>> worth <<3>> gold. Clear my bounty.", 0)
+-- SafeAddString(SI_INTERACT_OPTION_PAY_BOUNTY_FORFEIT_ITEMS, "[支払う]<<1>>ゴールドを払い、盗品を全て渡すので、賞金を取り消してほしい。", 1)
